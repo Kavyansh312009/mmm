@@ -1,0 +1,40 @@
+
+.heading{
+    width: 100%;
+    text-align: left;
+}
+.heading h3{
+    display: inline;
+}
+.heading button{
+    float: right;
+    border: 1px solid aliceblue;
+}
+.big_image{
+    width: 100%;
+}
+#start, #status {
+    font-size: 22px;
+}
+.btn{
+    font-weight: bold;
+}
+.modal-dialog{
+    width: 90%;
+}
+.instruction_image{
+    display: inline;
+    width: 45%;
+}
+video{
+    background: url('Nintendo_Switch_hardware_-_Console_09-2.webp');
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
+h3{
+    background-color: orangered;
+    color: aliceblue;
+    line-height: 2;
+    margin: 0px;
+}
